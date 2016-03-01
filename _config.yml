@@ -1,7 +1,7 @@
 name: timelapseexplorer
 favicon: null
-layout_spectrum: 0.47925338498316705
-typography_spectrum: 0.5124303332995623
+layout_spectrum: 0.675
+typography_spectrum: 0.49815
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.596244640648365
+  brandStrength: 0.3125
   lightness: 0.18491636076942086
   saturation: 0.9536919516976923
   rhythmicContrast: 0.8211543837096542
