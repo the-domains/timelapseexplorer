@@ -2,6 +2,7 @@ name: timelapseexplorer
 favicon: null
 layout_spectrum: 0.675
 typography_spectrum: 0.49815
+title: The TimeLapse Explorer - Space to Transition
 cta:
   domain: null
   bucket: null
